@@ -1,1 +1,1 @@
-# honeypot-scam-detection
+# honeypot-scam-de-detection
